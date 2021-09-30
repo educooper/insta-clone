@@ -29,8 +29,22 @@ body {
     align-items: center;
     justify-content: center;
 }
-.instagram-phone img{
+.phone{
     height: 50rem;
+    }
+
+.image{
+    height: 35.7rem;
+    z-index: 2;
+    padding-left:96px;
+    position: absolute;
+    
+}
+.slide{
+	-webkit-transition: opacity .300s linear;
+	-moz-transition: opacity .300s linear;
+	-o-transition: opacity .300s linear;
+	transition: opacity .300s linear;
 }
 .instagram-continue{
     display:flex;
