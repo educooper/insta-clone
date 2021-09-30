@@ -59,7 +59,7 @@ Adicionada função js simples que aciona slider e customizações com position:
 <br />
 
 <p align="center">
-<img src="https://github.com/educooper/insta-clone/raw/main/img/simples-slide-js.jpg alt="Simples Slide em Javascript" />
+<img src="https://github.com/educooper/insta-clone/raw/main/img/simples-slide-js.jpg" alt="Simples Slide em Javascript" />
   </p>
 
 Muito Obrigado [Digital Innovation One](https://web.digitalinnovation.one/) por essa oportunidade!
