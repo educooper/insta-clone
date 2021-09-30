@@ -62,8 +62,6 @@ Adicionada função js simples que aciona slider e customizações com position:
 <img src="https://github.com/educooper/insta-clone/raw/main/simples-slide-js.jpg" alt="Simples Slide em Javascript" />
   </p>
 
-<a href="#top">Voltar ao Topo</a>
-
 Muito Obrigado [Digital Innovation One](https://web.digitalinnovation.one/) por essa oportunidade!
 
 <a href="#top">Voltar ao Topo</a>
